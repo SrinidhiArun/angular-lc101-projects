@@ -1,0 +1,11 @@
+h3{
+    color:rgb(82, 60, 6);
+    font-size: 30;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+li{
+    color:rgb(72, 72, 230);
+    font-size: 18;
+    font-style: italic;
+}
